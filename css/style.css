@@ -1,0 +1,21 @@
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.image-left {
+    float: left;
+    margin: 0px 5px 5px 0px;
+}
+
+figure {
+    text-align: center;
+}
+
+hr {
+    width: 100%;
+    visibility: hidden;
+}
